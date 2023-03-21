@@ -1,2 +1,2 @@
 # matplotlib-challenge
-The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens and then plot the results using matplotlib.
+The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens and then plot the results using matplotlib. The goal was to see which drugs were most effective at treating mice who were identified with SCC tumors. To do this, I generated tables and figures needed for the technical report of the clinical study. I also created a summary of the study results.
